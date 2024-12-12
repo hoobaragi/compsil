@@ -1,2 +1,2 @@
-# compsil
-컴프실과제-202202527
+#My First Git Repository
+# mygit
